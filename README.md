@@ -6,4 +6,4 @@ What programs are required to install i3? Here is the list:
 
 $ sudo apt update
 
-$ sudo apt-get install i3 rofi compton i3blocks pavucontrol
+$ sudo apt-get install i3 rofi compton i3blocks pavucontrol feh
